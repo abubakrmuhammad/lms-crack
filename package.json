@@ -1,0 +1,22 @@
+{
+  "name": "lms-crack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abubakrmuhammad/lms-crack.git"
+  },
+  "author": "Abubakr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abubakrmuhammad/lms-crack/issues"
+  },
+  "homepage": "https://github.com/abubakrmuhammad/lms-crack#readme",
+  "dependencies": {
+    "puppeteer": "^13.5.2"
+  }
+}
